@@ -67,7 +67,7 @@ cv2.circle(
     color=(0, 255,255),
     thickness=2,
     )
-print(x)
+#print(x)
 
 # 画像を画面に表示する．
 cv2.imshow("", img)
